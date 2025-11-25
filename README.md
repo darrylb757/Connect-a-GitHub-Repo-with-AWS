@@ -1,10 +1,10 @@
 # Connect-a-GitHub-Repo-with-AWS
 I will set up a Git repository for my web app's code. By the end of this project, the code that I wrote for my Java web app will be store securely in GitHub.
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Connect a GitHub Repo with AWS
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-github)
+
 
 **Author:** Darryl Brown  
 **Email:** darrylbrown1991@gmail.com
